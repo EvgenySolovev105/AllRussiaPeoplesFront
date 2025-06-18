@@ -2,8 +2,8 @@
 
 Ссылка на проект (телеграм бот) - @AllRussiaPeoplesFront_bot
 
-(https://github.com/EvgenySolovev105/AllRussiaPeoplesFront/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-18%20%D0%B2%2014.31.46.png)
-
+[
+](https://github.com/EvgenySolovev105/AllRussiaPeoplesFront/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-18%20%D0%B2%2014.31.46.png?raw=true)
 ## **Описание проекта**
 
 Проект представляет собой инеллектуального ассистента, разработанного для поддержки пользователей в рамках деятельности движения "All Russia Peoples Front". Ассистент обладает двумя ключевыми функциональными возможностями:
