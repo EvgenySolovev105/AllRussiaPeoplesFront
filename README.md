@@ -87,12 +87,12 @@
 
 Проект распространяется под лицензией [MIT License](LICENSE). Вы можете свободно использовать, изменять и распространять код, соблюдая условия лицензии.
 
-
+Скриншоты проекта:
 
 ![Подключение к телеграм боту](https://github.com/EvgenySolovev105/AllRussiaPeoplesFront/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-18%20%D0%B2%2014.31.46.png?raw=true)
 
-![Иллюстрация к проекту](https://example.com/image.png)
+![Иллюстрация к проекту](https://github.com/EvgenySolovev105/AllRussiaPeoplesFront/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-18%20%D0%B2%2014.33.35.png?raw=true)
 
-![Иллюстрация к проекту](https://example.com/image.png)
+![Иллюстрация к проекту](https://github.com/EvgenySolovev105/AllRussiaPeoplesFront/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-18%20%D0%B2%2014.33.48.png?raw=true)
 
-![Иллюстрация к проекту](https://example.com/image.png)
+![Иллюстрация к проекту](https://github.com/EvgenySolovev105/AllRussiaPeoplesFront/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-06-18%20%D0%B2%2014.40.08.png?raw=true)
