@@ -89,5 +89,4 @@
 ## **Контакты**
 
 По всем вопросам, связанным с проектом, обращайтесь:  
-- Электронная почта: support@allrussiapeoplesfront.com  
-- Официальный сайт: [allrussiapeoplesfront.com](ссылка)
+- Официальный сайт: [[allrussiapeoplesfront.com](ссылка)](https://onf.ru/)
